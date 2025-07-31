@@ -6,7 +6,7 @@ title: Gaito Labs # the website title (if blank, full name will be used instead)
 first_name: André
 middle_name: Vinnicios S.
 last_name: Gaito
-contact_note: >
+contact_note: http://lattes.cnpq.br/9008126975057063>
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
