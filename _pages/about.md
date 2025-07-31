@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Rio de Janeiro, Brasil. Contacts. Motto.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: foto acampamento.jpj
   image_circular: false # crops the image to make it circular
   more_info: http://lattes.cnpq.br/9008126975057063>
     <p>555 your office number</p>
