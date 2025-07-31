@@ -2,7 +2,7 @@
 layout: about
 title: Gaito Labs
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Rio de Janeiro, Brasil. Contacts. Motto. Etc.
 
 profile:
   align: right
