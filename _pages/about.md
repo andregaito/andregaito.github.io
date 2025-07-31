@@ -11,7 +11,7 @@ profile:
   more_info: http://lattes.cnpq.br/9008126975057063>
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>YBrasil, Rio de Janeiro
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
