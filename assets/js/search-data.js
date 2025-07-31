@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/andregaito/people/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-dia-01",
+        
+          title: "Dia 01",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/andregaito/blog/2025/Dia-01/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
