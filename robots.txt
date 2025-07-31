@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://andregaito.github.io/andregaito/sitemap.xml
+Sitemap: https://andregaito.github.ioblank/sitemap.xml
